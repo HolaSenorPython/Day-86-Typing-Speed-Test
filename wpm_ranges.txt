@@ -1,0 +1,7 @@
+0-20: Very Slow
+21-40: Slow
+41-60: Normal
+61-80: Fast
+81+: VERY fast
+
+These ranges determine what image is shown.
